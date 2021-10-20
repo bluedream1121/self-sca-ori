@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+*__pycache__*
+*.vscode
+*.ipynb_checkpoints
+
+logs/
+wandb/
+trained_models/_*
+
+## datasets
+datasets/patchPose
+datasets/patchpose_dataset_generation/SPair-71k
+datasets/hpatchesPose
+datasets/hpatchespose_dataset_generation/hpatches-sequences-release
