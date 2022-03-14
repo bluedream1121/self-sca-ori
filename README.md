@@ -87,11 +87,13 @@ python train.py --branch sca --output_sca 13
 ## Citation
 If you find our code or paper useful to your research work, please consider citing our work using the following bibtex:
 ```
-@inproceedings{lee2021self,
-    author   = {},
-    title    = {},
-    booktitle= {},
-    year     = {2021}
+@proceedings{lee2021self,
+  title={Self-Supervised Learning of Image Scale and Orientation},
+  author={Lee, Jongmin and Jeong, Yoonwoo and Cho, Minsu },
+  booktitle     = {31st British Machine Vision Conference 2021, {BMVC} 2021, Virtual Event, UK},
+  publisher = {{BMVA} Press},
+  year      = {2021},
+  url       = {https://www.bmvc2021-virtualconference.com/programme/accepted-papers/},
 }
 ```
 
