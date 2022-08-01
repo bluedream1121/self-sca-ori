@@ -40,6 +40,8 @@ cd datasets
 bash download.sh
 ```
 
+If the upper link does not work, please use this link [patchPose](https://postechackr-my.sharepoint.com/:u:/g/personal/ljm1121_postech_ac_kr/EUzUapf-ZDxJjRJ7L-Py88cBso7YZdzFz88E9BTBDM6CQg?e=BMqwhD), [hpatchesPose](https://postechackr-my.sharepoint.com/:u:/g/personal/ljm1121_postech_ac_kr/EfGKxwxLwzxDim6g9fMvFOQB9nbrmVKJ_hNfa9XyPlcNlQ?e=IWwv7o). (password: self)
+
 If you want to regenerate the patchPose datasets, please run the following script:
 
 ```bash
